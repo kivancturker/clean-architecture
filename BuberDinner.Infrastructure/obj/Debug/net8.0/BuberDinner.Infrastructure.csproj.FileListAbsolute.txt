@@ -1,0 +1,17 @@
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.deps.json
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.pdb
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/refint/BuberDinner.Infrastructure.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.pdb
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/ref/BuberDinner.Infrastructure.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Application.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Domain.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Application.pdb
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Domain.pdb
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.CopyComplete
