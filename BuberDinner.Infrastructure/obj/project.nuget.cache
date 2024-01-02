@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2UDl+J0osISW1Shptzh78CEnWeIGEPbsiXm0BlGFDk0dWoFINFnoDwZ3COC45dLHnPSZcK6vgZXopXjVOBctUA==",
+  "dgSpecHash": "imOuwuGjJbLhXLp3dfHf56g2IWUTKs6EUR7aHgK6aQdCYuInpIVeWLO3zx/1/lI7uQohdprkVCEWdMUw6eVwGw==",
   "success": true,
   "projectFilePath": "/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/kivancturker/.nuget/packages/erroror/1.4.0/erroror.1.4.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration.binder/1.0.0/microsoft.extensions.configuration.binder.1.0.0.nupkg.sha512",

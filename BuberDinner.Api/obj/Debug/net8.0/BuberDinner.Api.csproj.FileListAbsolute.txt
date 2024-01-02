@@ -45,3 +45,5 @@
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/obj/Debug/net8.0/BuberDinner.Api.sourcelink.json
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/ErrorOr.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/MediatR.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/MediatR.Contracts.dll
