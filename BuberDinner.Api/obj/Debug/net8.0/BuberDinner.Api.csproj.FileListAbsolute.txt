@@ -43,3 +43,5 @@
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/obj/Debug/net8.0/BuberDinner.Api.sourcelink.json
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/ErrorOr.dll

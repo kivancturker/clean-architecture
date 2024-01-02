@@ -13,3 +13,4 @@
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Domain.pdb
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.AssemblyReference.cache
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.CopyComplete
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.sourcelink.json

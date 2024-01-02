@@ -9,3 +9,4 @@
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/refint/BuberDinner.Contracts.dll
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.pdb
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/ref/BuberDinner.Contracts.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.sourcelink.json

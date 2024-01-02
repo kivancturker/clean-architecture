@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3V/RZvNZIqHFu9BTCA2kO2Usgx4eG+zq6fwNUWJGcoq1qXw5uNnWDGl0dilJrL1pAB88ctGiDJo1mlvJYy86EQ==",
+  "dgSpecHash": "2UDl+J0osISW1Shptzh78CEnWeIGEPbsiXm0BlGFDk0dWoFINFnoDwZ3COC45dLHnPSZcK6vgZXopXjVOBctUA==",
   "success": true,
   "projectFilePath": "/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/kivancturker/.nuget/packages/erroror/1.4.0/erroror.1.4.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration.binder/1.0.0/microsoft.extensions.configuration.binder.1.0.0.nupkg.sha512",

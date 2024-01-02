@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CoGQP4YbRx+9aSJmANOP8PVYuu5Y2eAIcFOg+NO6bIDkBZfs4AdGQVe7wyUglNWYH0a1OkCG3LdZywWMtWSqrw==",
+  "dgSpecHash": "dDJVDAJjbL0VOpe9ChlKxvP5ItSxlozVkieC1nXOa9MU9ouaADmWI7naeuU1qzIQho7BqenI+qNOZa5gGWlBHQ==",
   "success": true,
   "projectFilePath": "/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/kivancturker/.nuget/packages/erroror/1.4.0/erroror.1.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

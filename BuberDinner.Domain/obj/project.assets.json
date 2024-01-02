@@ -1,11 +1,44 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ErrorOr/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ErrorOr/1.4.0": {
+      "sha512": "wxhu2dBdtM6JvKN2y50jxF69PxBrir3ZSG3kVEbH3/E1wssWMvmrTnw64FJZbfziuDSEr1lwU2i+Z5fmRs1ABw==",
+      "type": "package",
+      "path": "erroror/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "erroror.1.4.0.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ErrorOr >= 1.4.0"
+    ]
   },
   "packageFolders": {
     "/Users/kivancturker/.nuget/packages/": {}
@@ -43,6 +76,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

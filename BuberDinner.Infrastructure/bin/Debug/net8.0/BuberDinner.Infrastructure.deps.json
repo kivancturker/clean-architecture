@@ -16,6 +16,14 @@
           "BuberDinner.Infrastructure.dll": {}
         }
       },
+      "ErrorOr/1.4.0": {
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
@@ -423,6 +431,9 @@
         }
       },
       "BuberDinner.Domain/1.0.0": {
+        "dependencies": {
+          "ErrorOr": "1.4.0"
+        },
         "runtime": {
           "BuberDinner.Domain.dll": {}
         }
@@ -434,6 +445,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "ErrorOr/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wxhu2dBdtM6JvKN2y50jxF69PxBrir3ZSG3kVEbH3/E1wssWMvmrTnw64FJZbfziuDSEr1lwU2i+Z5fmRs1ABw==",
+      "path": "erroror/1.4.0",
+      "hashPath": "erroror.1.4.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/8.0.0": {
       "type": "package",

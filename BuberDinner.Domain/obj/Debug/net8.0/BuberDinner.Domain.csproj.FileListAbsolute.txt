@@ -9,3 +9,5 @@
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/refint/BuberDinner.Domain.dll
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.pdb
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/ref/BuberDinner.Domain.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.sourcelink.json
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.csproj.AssemblyReference.cache
