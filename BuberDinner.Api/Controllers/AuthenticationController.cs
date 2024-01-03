@@ -3,6 +3,7 @@ using BuberDinner.Application.Authentication.Common;
 using BuberDinner.Application.Authentication.Queries.Login;
 using BuberDinner.Contracts.Authentication;
 using ErrorOr;
+using MapsterMapper;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -13,24 +14,21 @@ namespace BuberDinner.Api.Controllers;
 public class AuthenticationController : ApiController
 {
     private readonly ISender _mediator;
-    public AuthenticationController(ISender mediator)
+    private readonly IMapper _mapper;
+    public AuthenticationController(ISender mediator, IMapper mapper)
     {
         _mediator = mediator;
+        _mapper = mapper;
     }
 
     [HttpPost("register")]
     public async Task<IActionResult> Register(RegisterRequest request)
     {
-        var command = new RegisterCommand(
-            request.FirstName, 
-            request.LastName, 
-            request.Email, 
-            request.Password
-        );
+        var command = _mapper.Map<RegisterCommand>(request);
         ErrorOr<AuthenticationResult> authResult = await _mediator.Send(command);
         
         return authResult.Match(
-            authResult => Ok(MapAuthResponse(authResult)),
+            authResult => Ok(_mapper.Map<AuthenticationResponse>(authResult)),
             errors => Problem(errors)
         );
     }
@@ -38,28 +36,13 @@ public class AuthenticationController : ApiController
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginRequest request)
     {
-        var query = new LoginQuery(
-            request.Email, 
-            request.Password
-        );
+        var query = _mapper.Map<LoginQuery>(request);
         
         var authResult = await _mediator.Send(query);
 
-
-
         return authResult.Match(
-            authResult => Ok(MapAuthResponse(authResult)),
+            authResult => Ok(_mapper.Map<AuthenticationResponse>(authResult)),
             errors => Problem(errors)
         );
-    }
-
-    private AuthenticationResponse MapAuthResponse(AuthenticationResult authResult)
-    {
-        return new AuthenticationResponse(
-            authResult.User.Id, 
-            authResult.User.Email, 
-            authResult.User.LastName, 
-            authResult.User.FirstName, 
-            authResult.Token);
     }
 }
