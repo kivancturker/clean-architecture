@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "imOuwuGjJbLhXLp3dfHf56g2IWUTKs6EUR7aHgK6aQdCYuInpIVeWLO3zx/1/lI7uQohdprkVCEWdMUw6eVwGw==",
+  "dgSpecHash": "FYIaKjrnJ+Dz+I2x/sErchj0StE3QcshwnvX7KIJnmkRCt0Vk9CuvTtefMyI1EQCf1clmz10dKluEXRqHYR0Yg==",
   "success": true,
   "projectFilePath": "/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/kivancturker/.nuget/packages/erroror/1.4.0/erroror.1.4.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",

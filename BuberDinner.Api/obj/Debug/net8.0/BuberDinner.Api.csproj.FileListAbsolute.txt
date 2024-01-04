@@ -50,3 +50,7 @@
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Mapster.dll
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Mapster.Core.dll
 /Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Mapster.DependencyInjection.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/FluentValidation.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/obj/Debug/net8.0/BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs

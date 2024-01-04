@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I+/mMNE6IgyeyDaSa0JytdqcQzpa0mi1d/JvwInCjalC5SB06nN8hCPLYa9q2kAgbHVE7wef9w0wugptB29LPg==",
+  "dgSpecHash": "t9wmhPNryRPh7f+1gHptJHTyOm0vgAp9a366UONZE2hc/b2kc7djiVzfmH3G/paz62dXZ3YUOiJ1vAz5nNCKEg==",
   "success": true,
   "projectFilePath": "/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "/Users/kivancturker/.nuget/packages/erroror/1.4.0/erroror.1.4.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/mapster.dependencyinjection/1.0.1/mapster.dependencyinjection.1.0.1.nupkg.sha512",
