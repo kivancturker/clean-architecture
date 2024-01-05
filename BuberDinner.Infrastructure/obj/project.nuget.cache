@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FYIaKjrnJ+Dz+I2x/sErchj0StE3QcshwnvX7KIJnmkRCt0Vk9CuvTtefMyI1EQCf1clmz10dKluEXRqHYR0Yg==",
+  "dgSpecHash": "AHUNFRvNT+T74LO51TXQfb2dN3ZP0y64YpC5iSij78mySFZKnDRYVtUPQqotP9I5YpLj6FsndIsGq4f5BR8ZUg==",
   "success": true,
   "projectFilePath": "/Users/kivancturker/Dev/clean-architecture/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/Users/kivancturker/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.0/microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.extensions.configuration.binder/1.0.0/microsoft.extensions.configuration.binder.1.0.0.nupkg.sha512",
@@ -21,6 +22,8 @@
     "/Users/kivancturker/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/microsoft.identitymodel.protocols/7.0.3/microsoft.identitymodel.protocols.7.0.3.nupkg.sha512",
+    "/Users/kivancturker/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.0.3/microsoft.identitymodel.protocols.openidconnect.7.0.3.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.identitymodel.tokens/7.0.3/microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "/Users/kivancturker/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
